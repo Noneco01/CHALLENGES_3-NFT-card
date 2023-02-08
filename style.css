@@ -61,8 +61,14 @@ main{
     
 }
 
-h5{
+h1{
+    font-size: 1.4rem;
+}
+
+
+h2{
     color:hsl(178, 100%, 50%);
+    font-size: 1rem;
     letter-spacing: 1px;
     position: relative;
     left: -40px;
@@ -119,8 +125,7 @@ span{
 
 }
 
-
-h3:hover{
+h1:hover{
     cursor: pointer;
     color: hsl(178, 100%, 50%);
 }
